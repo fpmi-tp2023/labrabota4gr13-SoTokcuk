@@ -1,1 +1,26 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/AX-8vGTq)
+# Overview #
+---
+Study examples of executing parameterized queries, inserting images in the database, 
+inserting data in autocommit mode and as transactions, database metadata output
+
+
+# Branches #
+---
+## Main ##
+This branch contains the essence of the task and general information about the project.
+
+## Examples ##
+This branch contains examples of interactions between C and sqlite3, which I have reviewed.
+
+# Building #
+---
+To run example you should enter in your terminal:
+
+```
+gcc -o result example1_gr13_YanchukBranislau.c -l sqlite3
+```
+and then
+
+```
+./result
+```
