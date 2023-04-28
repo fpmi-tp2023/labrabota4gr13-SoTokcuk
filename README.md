@@ -24,3 +24,7 @@ and then
 ```
 ./result
 ```
+or use Makefile: open folder in terminal and use command
+```
+make
+```
